@@ -1,0 +1,6 @@
+[submodule "output"]
+	path = output
+	url = https://github.com/Elhodred/Elhodred.github.io.git
+[submodule "themes/pure"]
+	path = themes/pure
+	url = https://github.com/Elhodred/pure.git
