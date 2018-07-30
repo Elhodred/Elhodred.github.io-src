@@ -24,5 +24,5 @@ FOOTER_LINKS = (('Source', 'https://github.com/Elhodred/Elhodred.github.io-src')
                 ('PurePelican (fork)', 'https://github.com/Elhodred/pure'),)
 # Following items are often useful when publishing
 
-#DISQUS_SITENAME = ""
-#GOOGLE_ANALYTICS = ""
+DISQUS_SITENAME = "alfonso-pinto"
+GOOGLE_ANALYTICS = "UA-123085502-1"
